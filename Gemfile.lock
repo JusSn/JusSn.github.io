@@ -234,8 +234,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
-  jekyll-theme-midnight
+  jekyll-theme-slate
   tzinfo-data
 
 BUNDLED WITH
