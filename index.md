@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![image-title-here](/images/jfan5.png){:class="img-responsive"}
+![image-title-here](/images/jfan5small.png){:class="img-responsive"}
