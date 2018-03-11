@@ -235,6 +235,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-theme-slate
+  jemoji
   tzinfo-data
 
 BUNDLED WITH
