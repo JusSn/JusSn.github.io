@@ -7,8 +7,7 @@ layout: default
 	<img src="/images/jfan5small.png">
 </p>
 
-Education
----------
+## Education
 2013 - 2017
 : 	B.S. Computer Science · University of Michigan, Ann Arbor
-	Computer Game Design
+:	Computer Game Design
