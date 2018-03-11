@@ -2,4 +2,6 @@
 layout: default
 ---
 
-![image-title-here](/images/jfan5small.png){:class="img-responsive"}
+<p align="center">
+	![portrait](/images/jfan5small.png){:class="img-responsive"}
+</p>
