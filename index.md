@@ -4,7 +4,7 @@ layout: default
 
 
 <p align="center">
-	<img src="/images/jfan5small.png" height=50% width=50%>
+	<img src="/images/jfan5small.png">
 </p>
 
 #### Education
