@@ -7,6 +7,8 @@ layout: default
 	<img src="/images/jfan5small.png">
 </p>
 
+:e-mail: jussnfan@umich.edu · :iphone: 248 238 7813 
+
 #### Education
 B.S. Computer Science · University of Michigan, Ann Arbor · 2013 - 2017
 :	Computer Game Design · Object Oriented and Advanced Programming · Computer Vision · Operating Systems · Linear Algebra
