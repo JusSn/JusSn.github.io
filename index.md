@@ -5,8 +5,8 @@ layout: default
 
 <p align="center">
 	<img src="/images/jfan5small.png">
-	<h6>jussnfan@umich.edu · 248 238 7813</h6>
 </p>
+<h6 align="center">jussnfan@umich.edu · 248 238 7813</h6>
 
 #### Education
 B.S. Computer Science · University of Michigan, Ann Arbor · 2013 - 2017
