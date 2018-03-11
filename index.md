@@ -7,7 +7,8 @@ layout: default
 	<img src="/images/jfan5small.png">
 </p>
 
-## Education
-2013 - 2017
-: 	B.S. Computer Science · University of Michigan, Ann Arbor
-:	Computer Game Design
+#### Education
+2013 - 2017	\|	B.S. Computer Science · University of Michigan, Ann Arbor
+:	Computer Game Design · Object Oriented and Advanced Programming · Computer Vision · Operating Systems · Linear Algebra
+
+#### Projects
