@@ -5,7 +5,7 @@ layout: default
 
 <p align="center">
 	<img src="/images/jfan5small.png">
-	jussnfan@umich.edu · 248 238 7813
+	<h6>jussnfan@umich.edu · 248 238 7813</h6>
 </p>
 
 #### Education
