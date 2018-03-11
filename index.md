@@ -7,7 +7,7 @@ layout: default
 	<img src="/images/jfan5small.png">
 </p>
 <p align="center">
-	:e-mail: jussnfan@umich.edu · :iphone: 248 238 7813
+	:e-mail: <a href="mailto:jussnfan@umich.edu">jussnfan@umich.edu</a> · :iphone: 248 238 7813 · :link: <a href="linkedin.com/in/jussnfan">LinkedIn/jussnfan</a>
 </p>
 
 #### Education
