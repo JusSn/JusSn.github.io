@@ -7,12 +7,13 @@ layout: default
 	<img src="/images/jfan5small.png">
 
 	<p>
-		:e-mail: <a href="mailto:jussnfan@umich.edu">jussnfan@umich.edu</a> · :iphone: 248 238 7813 · :link: <a href="linkedin.com/in/jussnfan">LinkedIn/jussnfan</a>
+		:e-mail: <a href="mailto:jussnfan@umich.edu">jussnfan@umich.edu</a> · :iphone: 248 238 7813 · :link: <a href="linkedin.com/in/jussnfan">LinkedIn/jussnfan</a> · :memo: <a href="https://1drv.ms/b/s!AqNBlBPGY8SXgdkMWFP0ra2v2W_5iA">Résumé</a>
 	</p>
 </div>
 
 B.S. Computer Science · University of Michigan, Ann Arbor · 2013 - 2017
 :	Computer Game Design · Object Oriented and Advanced Programming · Computer Vision · Operating Systems · Linear Algebra
+
 
 ____________
 
