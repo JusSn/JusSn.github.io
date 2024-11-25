@@ -4,7 +4,7 @@ layout: default
 
 <div>
 	<p>
-		<a href="linkedin.com/in/jussnfan">Connect with me on LinkedIn!</a>
+		<a href="https://www.linkedin.com/in/jussnfan">Connect with me on LinkedIn!</a>
 	</p>
 </div>
 ____________
